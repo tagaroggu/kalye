@@ -1,0 +1,22 @@
+{
+  "name": "kalye",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node index.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@tagaroggu/ts": "github:tagaroggu/ts#v0.1.0",
+    "lit-html": "^2.8.0",
+    "typescript": "^5.1.6",
+    "urlpattern-polyfill": "^9.0.0"
+  },
+  "peerDependencies": {
+    "lit-html": "^2.8.0"
+  }
+}

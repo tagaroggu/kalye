@@ -1,0 +1,7 @@
+{
+    "extends": ["@tagaroggu/ts/tsconfig.json"],
+    "compilerOptions": {
+        "moduleResolution": "Node",
+        "types": ["node"]
+    }
+}
